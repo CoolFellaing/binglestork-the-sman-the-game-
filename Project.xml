@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <project>
-	<app title="haxe-flixel-template" file="haxe-flixel-template" main="Main" version="0.0.1" company="haxe-flixel-template" />
+	<app title="binglestork the sman the game" file="binglestork-the-sman the game main="Main" version="0.0.1" company="CF" />
 	<app preloader="utils.Preloader" />
 
 	<set name="BUILD_DIR" value="export" />
